@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShravaniPathak
-- 👀 I’m interested in Web, Fullstack and Mobile developement, AI and Machine Learning, Cloud Computing
-- 🌱 I’m currently learning MERN Stack, Supervised AI Algorithms, AWS Fundamentals
+- 👀 I’m interested in Web, Fullstack and Mobile developement, AI / ML, and Cloud Computing
+- 🌱 I’m currently learning MERN Stack, Supervised AI Algorithms and AWS and Azure Fundamentals
 - 💞️ I’m looking to collaborate on open source projects and internships
 - ⚡ Fun fact: I was placed 3rd among 560+ teams in internal Smart India Hackathon 2024
 
